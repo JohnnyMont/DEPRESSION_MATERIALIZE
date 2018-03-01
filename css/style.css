@@ -1,0 +1,44 @@
+nav,.page-footer,#slide-out{
+	background: black;
+}
+h4,h5, h5 a,p,input{
+	color: black;
+}
+p{
+	font-size: 18px;
+	text-align: justify;
+}
+.container{
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+html,ul, li, a,label{
+	color: black;
+}
+.tema{
+	text-transform: uppercase;
+	color: black;
+}
+.select-dropdown span {
+	color: black !important;
+	background: : #e0e0e0 !important;
+}
+body, .cinza{
+	background: #e0e0e0;
+}
+.enviar,.btn{
+	 background: black !important;
+}
+.enviar:hover{
+	background: #010 !important;
+}
+.enviar{
+	background: black;
+	color: white;
+	border: 1px solid white;
+	width: 240px;
+	height: 250px;
+	float: left;
+	margin-left: 3px;
+	margin-right: 3px;
+}
